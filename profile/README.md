@@ -1,4 +1,4 @@
-![cover image](https://github.com/PlasticSilverware/.github/blob/main/cover.png?raw=true)
+![cover image](https://github.com/PlasticSilverware/.github/blob/main/cover.svg?raw=true)
 
 <!-- ## Plastic Silverware Ltd. -->
 **Crafting Interactive Stories**
